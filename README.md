@@ -46,12 +46,9 @@
 
 ![](screenshot/ss10.png)
 
-<img src=https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png width="130px">
+<img src=https://www.logo.wine/a/logo/YouTube/YouTube-White-Full-Color-Dark-Background-Logo.wine.svg width="130px">
 
 - [Link Dokumentasi YouTube](https://youtu.be/Bpwhp9YiSWI)
-
-
-
 
 
 
