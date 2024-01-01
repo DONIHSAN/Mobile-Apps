@@ -7,10 +7,6 @@
 
 # Grid View Design
 
-<img src=https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png width="150px">
-
-- [Link Dokumentasi YouTube](https://youtu.be/Bpwhp9YiSWI)
-
 ## Tampilan User Interface
 
 
@@ -49,6 +45,10 @@
 - **Tampilan Menu Fibonacci  👇**
 
 ![](screenshot/ss10.png)
+
+<img src=https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png width="130px">
+
+- [Link Dokumentasi YouTube](https://youtu.be/Bpwhp9YiSWI)
 
 
 
