@@ -1,4 +1,4 @@
-# Project UAS { Semester 3 } <img src=https://i.pinimg.com/564x/fd/88/8c/fd888c43145aa84d5e3037082d470910.jpg width="130px">
+# Project UAS { Semester 3 }  <img src=https://static.vecteezy.com/system/resources/thumbnails/016/460/765/small_2x/android-os-logo-top-operating-system-signs-free-png.png width="110px">
 
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
@@ -7,9 +7,12 @@
 
 # Grid View Design
 
+<img src=https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png width="150px">
+
+- [Link Dokumentasi YouTube](https://youtu.be/Bpwhp9YiSWI)
+
 ## Tampilan User Interface
 
-***Output :***
 
 ![](screenshot/ss1.png)
 
