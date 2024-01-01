@@ -5,7 +5,47 @@
 |----|---|-----|------|
 |Muhammad Ikhsan Fakhrudin|312210019|TI.22.A.2|Pemrograman Mobile 1|
 
-# Tampilan User Interface
+# Grid View Design
+
+## Tampilan User Interface
+
+***Output :***
+
+![](screenshot/ss1.png)
+
+- **Tampilan Menu Hello  👇**
+
+![](screenshot/ss2.png)
+
+- **Tampilan Menu Count  👇**
+
+![](screenshot/ss3.png)
+
+- **Tampilan Menu Case Sianida  👇**
+
+![](screenshot/ss4.png)
+
+- **Tampilan Menu Two Activity  👇**
+
+![](screenshot/ss5.png)
+
+![](screenshot/ss6.png)
+
+- **Tampilan Menu Set Alarm  👇**
+
+![](screenshot/ss7.png)
+
+- **Tampilan Menu Google Maps  👇**
+
+![](screenshot/ss8.png)
+
+- **Tampilan Menu Movies  👇**
+
+![](screenshot/ss9.png)
+
+- **Tampilan Menu Fibonacci  👇**
+
+![](screenshot/ss10.png)
 
 
 
