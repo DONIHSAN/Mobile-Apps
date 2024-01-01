@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="30dp"
+    tools:context=".MainActivity_Version_1">
+
+    <ImageView
+        android:id="@+id/image_romance"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:src="@drawable/bg_romance"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/btn_project1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/project_1"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/btn_project2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/project_2"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/btn_project3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/project_3"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/btn_project4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/project_4"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/btn_project5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/project_5"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:layout_marginBottom="15sp"/>
+
+    <Button
+        android:id="@+id/btn_project6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/project_6"
+        android:textStyle="bold"
+        android:textSize="15sp" />
+
+</LinearLayout>
