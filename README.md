@@ -12,43 +12,45 @@
 
 ![](screenshot/ss1.png)
 
-- **Tampilan Menu Hello  👇**
+- ***Tampilan Menu Hello :***
 
 ![](screenshot/ss2.png)
 
-- **Tampilan Menu Count  👇**
+- ***Tampilan Menu Count :***
 
 ![](screenshot/ss3.png)
 
-- **Tampilan Menu Case Sianida  👇**
+- ***Tampilan Menu Case Sianida :***
 
 ![](screenshot/ss4.png)
 
-- **Tampilan Menu Two Activity  👇**
+- ***Tampilan Menu Two Activity :***
 
 ![](screenshot/ss5.png)
 
 ![](screenshot/ss6.png)
 
-- **Tampilan Menu Set Alarm  👇**
+- ***Tampilan Menu Set Alarm :***
 
 ![](screenshot/ss7.png)
 
-- **Tampilan Menu Google Maps  👇**
+- ***Tampilan Menu Google Maps :***
 
 ![](screenshot/ss8.png)
 
-- **Tampilan Menu Movies  👇**
+- ***Tampilan Menu Movies :***
 
 ![](screenshot/ss9.png)
 
-- **Tampilan Menu Fibonacci  👇**
+- ***Tampilan Menu Fibonacci :***
 
 ![](screenshot/ss10.png)
 
 <img src=https://www.logo.wine/a/logo/YouTube/YouTube-White-Full-Color-Dark-Background-Logo.wine.svg width="130px">
 
 - [Link Dokumentasi YouTube](https://youtu.be/Bpwhp9YiSWI)
+
+- [Link Penjelasan Pdf](https://bit.ly/47kiiBH)
 
 
 
