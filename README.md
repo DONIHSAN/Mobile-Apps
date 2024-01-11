@@ -9,25 +9,25 @@
 ## Tampilan User Interface
 
 
-![](screenshot/ss1.png)
+![](screenshot/ui1.png)
 
 - ***Tampilan Menu Hello :***
 
-![](screenshot/ss2.png)
+![](screenshot/ui2.png)
 
 - ***Tampilan Menu Count :***
 
-![](screenshot/ss3.png)
+![](screenshot/ui3.png)
 
 - ***Tampilan Menu Case Sianida :***
 
-![](screenshot/ss4.png)
+![](screenshot/ui4.png)
 
 - ***Tampilan Menu Two Activity :***
 
-![](screenshot/ss5.png)
+![](screenshot/ui5.png)
 
-![](screenshot/ss6.png)
+![](screenshot/ui6.png)
 
 - ***Tampilan Menu Set Alarm :***
 
