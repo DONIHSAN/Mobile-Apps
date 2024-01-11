@@ -49,7 +49,7 @@
 
 - [Link Dokumentasi YouTube](https://youtu.be/Bpwhp9YiSWI)
 
-- [Link Penjelasan Pdf](https://bit.ly/47kiiBH)
+- [Link Penjelasan Pdf](https://bit.ly/3HaMdSp)
 
 
 
