@@ -1,11 +1,10 @@
-# Project UAS { Semester 3 }  <img src=https://static.vecteezy.com/system/resources/thumbnails/016/460/765/small_2x/android-os-logo-top-operating-system-signs-free-png.png width="110px">
-
+# Project UAS { Semester 3 }  
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
 |----|---|-----|------|
 |Muhammad Ikhsan Fakhrudin|312210019|TI.22.A.2|Pemrograman Mobile 1|
 
-# Grid View Design
+# Medii Apps 🐳
 
 ## Tampilan User Interface
 
