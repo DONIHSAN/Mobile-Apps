@@ -6,76 +6,61 @@
 
 # Medii Apps 🐳
 
-## Tampilan User Interface
+## User Interface
 
-### ***Splash Screen :***
-
-<img align="left" width="150" height="265" src="https://github.com/DONIHSAN/Mobile-Apps/blob/main/screenshot/apk1.jpg?raw=true"></a>
-
-<br></br><br></br><br></br><br></br><br></br><br></br>
 
 ### ***Tampilan Halaman Menu  :***
 
-<img align="left" width="150" height="265" src="https://github.com/DONIHSAN/Mobile-Apps/blob/main/screenshot/apk2.jpg?raw=true"></a>
-
-<br></br><br></br><br></br><br></br><br></br><br></br>
-
+![](screenshots/ss1.png)
 
 ### ***Tampilan Menu Hello :***
 
-<img align="left" width="150" height="265" src="https://github.com/DONIHSAN/Mobile-Apps/blob/main/screenshot/apk3.jpg?raw=true"></a>
-
-<br></br><br></br><br></br><br></br><br></br><br></br>
+![](screenshots/ss2.png)
 
 ### ***Tampilan Menu Count :***
 
-<img align="left" width="150" height="265" src="https://github.com/DONIHSAN/Mobile-Apps/blob/main/screenshot/apk4.jpg?raw=true"></a>
-
-<br></br><br></br><br></br><br></br><br></br><br></br>
+![](screenshots/ss3.png)
 
 ### ***Tampilan Menu Case Sianida :***
 
-<img align="left" width="150" height="260" src="https://github.com/DONIHSAN/Mobile-Apps/blob/main/screenshot/apk5.jpg?raw=true"></a>
-
-<br></br><br></br><br></br><br></br><br></br><br></br>
+![](screenshots/ss4.png)
 
 ### ***Tampilan Menu Two Activity :***
 
-<img align="left" width="150" height="260" src="https://github.com/DONIHSAN/Mobile-Apps/blob/main/screenshot/apk6.jpg?raw=true"></a>
+![](screenshots/ss5.png)
 
-<img align="left" width="150" height="260" src="https://github.com/DONIHSAN/Mobile-Apps/blob/main/screenshot/apk7.jpg?raw=true"></a>
+![](screenshots/ss6.png)
 
-<br></br><br></br><br></br><br></br><br></br><br></br>
 
 ### ***Tampilan Menu Set Alarm :***
 
-<img align="left" width="150" height="260" src="https://github.com/DONIHSAN/Mobile-Apps/blob/main/screenshot/ss7.jpg?raw=true"></a>
-
-<br></br><br></br><br></br><br></br><br></br><br></br>
+![](screenshots/ss7.png)
 
 ### ***Tampilan Menu Google Maps :***
 
-<img align="left" width="150" height="260" src="https://github.com/DONIHSAN/Mobile-Apps/blob/main/screenshot/apk8.jpg?raw=true"></a>
+![](screenshots/ss8.png)
 
-<img align="left" width="150" height="260" src="https://github.com/DONIHSAN/Mobile-Apps/blob/main/screenshot/apk9.jpg?raw=true"></a>
-
-<br></br><br></br><br></br><br></br><br></br><br></br>
+![](screenshots/ss9.png)
 
 ### ***Tampilan Menu Movies :***
 
-<img align="left" width="150" height="260" src="https://github.com/DONIHSAN/Mobile-Apps/blob/main/screenshot/apk10.jpg?raw=true"></a>
+- **Action**
 
-<img align="left" width="150" height="260" src="https://github.com/DONIHSAN/Mobile-Apps/blob/main/screenshot/apk11.jpg?raw=true"></a>
+![](screenshots/ss10.png)
 
-<img align="left" width="150" height="260" src="https://github.com/DONIHSAN/Mobile-Apps/blob/main/screenshot/apk12.jpg?raw=true"></a>
+- **Romance**
 
-<br></br><br></br><br></br><br></br><br></br><br></br>
+![](screenshots/ss11.png)
+
+- **Comedy**
+
+![](screenshots/ss12.png)
+
 
 ### ***Tampilan Menu Fibonacci :***
 
-<img align="left" width="150" height="260" src="https://github.com/DONIHSAN/Mobile-Apps/blob/main/screenshot/apk13.jpg?raw=true"></a>
+![](screenshots/ss13.png)
 
-<br></br><br></br><br></br><br></br><br></br><br></br>
 
 <img src=https://www.logo.wine/a/logo/YouTube/YouTube-White-Full-Color-Dark-Background-Logo.wine.svg width="130px">
 
